@@ -7,6 +7,7 @@ import 'package:appcenter_crashes/appcenter_crashes.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
   final ios = defaultTargetPlatform == TargetPlatform.iOS;
 
   var app_secret = ios ? "iOSGuid" : "5eb2d826-fcd2-48a6-a892-76085a02c910git ";
