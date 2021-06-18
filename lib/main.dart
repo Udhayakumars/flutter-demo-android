@@ -1,6 +1,16 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:appcenter/appcenter.dart';
+import 'package:appcenter_analytics/appcenter_analytics.dart';
+import 'package:appcenter_crashes/appcenter_crashes.dart';
 
-void main() {
+
+void main() async {
+  final ios = defaultTargetPlatform == TargetPlatform.iOS;
+
+  var app_secret = ios ? "iOSGuid" : "5eb2d826-fcd2-48a6-a892-76085a02c910git ";
+  await AppCenter.start(app_secret, [AppCenterAnalytics.id, AppCenterCrashes.id]);
+
   runApp(MyApp());
 }
 
