@@ -6,6 +6,9 @@ import 'package:appcenter_crashes/appcenter_crashes.dart';
 
 
 void main() async {
+
+
+
   WidgetsFlutterBinding.ensureInitialized();
 
   final ios = defaultTargetPlatform == TargetPlatform.iOS;
