@@ -1,0 +1,1012 @@
+{
+    "jDT": [
+      {
+        "PI": 33,
+        "PRI": 130,
+        "RI": 184,
+        "PRCI": 688,
+        "CI": 11,
+        "SV": false,
+        "DC": 1136,
+        "DI": 33,
+        "CNV": true,
+        "CNR": false,
+        "DT": [
+          {
+            "PARENT": [
+              {
+                "PTI": "5711A1B1_1C1D1",
+                "TI": "5711A1B2_387C1D10",
+                "LV": 1,
+                "PGP": 762,
+                "LA": "My Equipment Library, LLC",
+                "RR": true,
+                "LF": false,
+                "XSTART": 23,
+                "XSTOP": 321,
+                "MORE": true,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 1,
+                    "U": false
+                  }
+                ]
+              }
+            ],
+            "CHILDREN": [
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "MEL # Assets",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B19_5711C1D19",
+                "LV": 2,
+                "LA": "Company Organization",
+                "RR": true,
+                "LF": false,
+                "IRD": 157,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 3,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B95_5711C1D95",
+                "LV": 2,
+                "LA": "Set2 -Things Organization",
+                "RR": true,
+                "LF": false,
+                "IRD": 1262,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 4,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #78",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #79",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #80",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #81",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #82",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #83",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #84",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #85",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #86",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #87",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #88",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #89",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #90",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #91",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #92",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #93",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #94",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #95",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #96",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #97",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #98",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #99",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #100",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #101",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #102",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #103",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #104",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #105",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #106",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #107",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #108",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #109",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #110",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #111",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #112",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #113",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #114",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #115",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #116",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #117",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #118",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #119",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #120",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #121",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #122",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #123",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #124",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #125",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #126",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #127",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #128",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #129",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              },
+              {
+                "PTI": "5711A1B2_387C1D10",
+                "TI": "5711A1B3_387C1D10",
+                "LV": 2,
+                "LA": "Set2 -Thing #130",
+                "RR": true,
+                "LF": false,
+                "IRD": 378,
+                "NK": [
+                  {
+                    "P": 755,
+                    "C": 7822,
+                    "I": 2,
+                    "U": false
+                  }
+                ]
+              }
+            ]}
+        ],
+        "X1": 1
+      },
+      {
+        "PI": 33,
+        "PRI": 130,
+        "RI": 184,
+        "PRCI": 714,
+        "CI": 2,
+        "SV": false,
+        "DC": 1136,
+        "DI": 33,
+        "CNV": true,
+        "CNR": false,
+        "DT": {
+          "Text": "PI=33  Mar  8 2021  7:01AM"
+        },
+        "X1": 1
+      }
+    ]
+  }
